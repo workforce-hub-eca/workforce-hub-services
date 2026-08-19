@@ -1,0 +1,9 @@
+[submodule "department-service"]
+	path = department-service
+	url = https://github.com/workforce-hub-eca/workforce-hub-department-service.git
+[submodule "document-service"]
+	path = document-service
+	url = https://github.com/workforce-hub-eca/workforce-hub-document-service.git
+[submodule "employee-service"]
+	path = employee-service
+	url = https://github.com/workforce-hub-eca/workforce-hub-employee-service.git
